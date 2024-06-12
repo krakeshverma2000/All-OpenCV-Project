@@ -6,6 +6,7 @@
   <h3 align="center">OpenCV Project Collection</h3>
 
   <p align="center">
+   
     All OpenCV projects using #python + Video Explanation 🧭
     <br>
     </br>
